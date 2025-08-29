@@ -1,5 +1,7 @@
 # AI Email Assistant - Project Summary
 
+![AI Email Assistant Preview](https://chatbot-documents-prod.s3.me-central-1.amazonaws.com/ChatDocuments/2025-8/1756464169859-Vite-React-08-29-2025_04_11_PM.png)
+
 ## Overview
 The AI Email Assistant is a powerful web application that transforms email communication using OpenAI's GPT-4 technology. Users can write unstructured emails and let AI refine them into professional, well-structured communications. The application features a step-by-step workflow, advanced AI analysis, and comprehensive email improvement capabilities.
 
